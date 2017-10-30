@@ -12,5 +12,4 @@ Library advanced is a prototype software that can be used in libraries to store 
   
   Follow me on twitter:
   @techinov22
-  
-  pip install ultimate_library
+
